@@ -4,6 +4,10 @@
 
 - 🌱 I’m currently learning **JAVA SCRIPT, REACT**
 
+- 👯 I’m looking to collaborate on **open source projects**
+
+- 💬 Ask me about **Front-End Learning Process**
+
 - 📫 How to reach me **asifuzzamanasif28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
