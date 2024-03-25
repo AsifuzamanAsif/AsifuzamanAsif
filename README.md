@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Front-End Learning Process**
+- 💬 Ask me about **Front-End Development Learning Process**
 
 - 📫 How to reach me **asifuzzamanasif28@gmail.com**
 
